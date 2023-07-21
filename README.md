@@ -1,2 +1,2 @@
-# space-explorer
-A small 3D gane built in Godot for the 2023 Kenney Jam
+# Space Explorer
+A small 3D game built in Godot for the 2023 Kenney Jam
