@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cwx7vcijpk1mo"
+path="res://.godot/imported/terrain_roadEnd.obj-6bc6991b4b8a7fa4271faabd814baead.mesh"
+
+[deps]
+
+files=["res://.godot/imported/terrain_roadEnd.obj-6bc6991b4b8a7fa4271faabd814baead.mesh"]
+
+source_file="res://Assets/Terrain/terrain_roadEnd.obj"
+dest_files=["res://.godot/imported/terrain_roadEnd.obj-6bc6991b4b8a7fa4271faabd814baead.mesh", "res://.godot/imported/terrain_roadEnd.obj-6bc6991b4b8a7fa4271faabd814baead.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

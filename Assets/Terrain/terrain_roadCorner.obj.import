@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://g64ytqggatyj"
+path="res://.godot/imported/terrain_roadCorner.obj-aa2ebadf5e6d8fd7fa581e02b65609de.mesh"
+
+[deps]
+
+files=["res://.godot/imported/terrain_roadCorner.obj-aa2ebadf5e6d8fd7fa581e02b65609de.mesh"]
+
+source_file="res://Assets/Terrain/terrain_roadCorner.obj"
+dest_files=["res://.godot/imported/terrain_roadCorner.obj-aa2ebadf5e6d8fd7fa581e02b65609de.mesh", "res://.godot/imported/terrain_roadCorner.obj-aa2ebadf5e6d8fd7fa581e02b65609de.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
