@@ -50,3 +50,7 @@ Once the planned features have been implemented, then these features will begin 
 - Esc - Pause
 - Tab - Inventory
 --->
+
+---
+
+All assets used currently have been acquired from [kenney.nl](https://kenney.nl/). These will be used for the prototyping of the game, and eventually will be replaced with custom assets created in Blockbench
