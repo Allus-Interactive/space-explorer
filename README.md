@@ -1,6 +1,6 @@
 # Space Explorer
 
-A small 3D game built in Godot, inspired by the theme for the 2023 Kenney Jam (Exploration)
+A small 3D game built in Godot, inspired by the theme for the [2023 Kenney Jam](https://itch.io/jam/kenney-jam-2023) (Exploration)
 
 ---
 
