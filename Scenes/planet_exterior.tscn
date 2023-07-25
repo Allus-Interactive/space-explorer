@@ -1,3 +1,14 @@
-[gd_scene format=3 uid="uid://caet6x0phveuk"]
+[gd_scene load_steps=3 format=3 uid="uid://caet6x0phveuk"]
+
+[ext_resource type="ArrayMesh" uid="uid://nowcopxa5s2k" path="res://Assets/Vehicles/craft_speederB.obj" id="1_50ar4"]
+[ext_resource type="ArrayMesh" uid="uid://bwai0phq0f3xw" path="res://Assets/Characters/astronautB.obj" id="2_xo8qr"]
 
 [node name="Planet Exterior" type="Node3D"]
+
+[node name="CraftSpeederB" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.45954, 0, 4.72224)
+mesh = ExtResource("1_50ar4")
+
+[node name="AstronautB" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.118456, 0, 4.78626)
+mesh = ExtResource("2_xo8qr")
