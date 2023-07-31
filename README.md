@@ -16,7 +16,7 @@ A small 3D game built in Godot, inspired by the theme for the [2023 Kenney Jam](
 
 <b>Launch Platforms:</b> itch.io
 
-<b>Brief Game Summary:</b> This project is a 3D Action RPG. The game is set in a fantasy realm during an era when brave Vikings travelled across the Sea from their homeland to find fame and fortune in foreign lands. As our young, brash hero, you must venture across the realm; battling the Queen’s soldiers and wild monsters, finding ancient and powerful weapons, helping various NPCs, and of obviously seeking even bigger and badder enemies/monsters to defeat. Of course, it is the ambition of every viking to demonstrate their strength and battle prowess by finding and slaying the infamous ‘King of Monsters’.
+<b>Brief Game Summary:</b> TBC<!-- This project is a 3D Action RPG. The game is set in a fantasy realm during an era when brave Vikings travelled across the Sea from their homeland to find fame and fortune in foreign lands. As our young, brash hero, you must venture across the realm; battling the Queen’s soldiers and wild monsters, finding ancient and powerful weapons, helping various NPCs, and of obviously seeking even bigger and badder enemies/monsters to defeat. Of course, it is the ambition of every viking to demonstrate their strength and battle prowess by finding and slaying the infamous ‘King of Monsters’. -->
 
 ## Planned Feature Development:
 
